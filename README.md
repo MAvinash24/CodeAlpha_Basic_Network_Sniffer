@@ -2,7 +2,7 @@
 
 ## Basic_Network_Sniffer
 
-The CodeAlpha Basic Network Sniffer is a simple network packet analyzer built using Python and Scapy. It provides a graphical user interface (GUI) for capturing and analyzing network packets in real-time. Users can start, stop, pause, and resume packet sniffing conveniently through the GUI.
+The Basic Network Sniffer is a simple network packet analyzer built using Python and Scapy. It provides a graphical user interface (GUI) for capturing and analyzing network packets in real-time. Users can start, stop, pause, and resume packet sniffing conveniently through the GUI.
 
 ---
 
