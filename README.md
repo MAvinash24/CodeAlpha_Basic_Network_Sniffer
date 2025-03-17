@@ -35,6 +35,8 @@ You can install Scapy using:
 pip install scapy
 ```
 
+---
+
 ### Installation
 
 1. Clone the repository:
@@ -54,6 +56,8 @@ pip install scapy
 
 The GUI window will open.
 
+---
+
 ### Screenshot of GUI
 
 ![image](https://github.com/user-attachments/assets/b547e8e3-0382-42e8-8836-228c2fe40676)
@@ -64,6 +68,7 @@ Use "Pause Sniffing" and "Resume Sniffing" as needed.
 Click "Stop Sniffing" to stop the packet capture.
 View captured packets in the scrollable display area.
 
+---
 
 ### Notes:
 
@@ -77,6 +82,7 @@ Packet capturing will only work if your network interface is in promiscuous mode
 
 Filtering options can be added to enhance packet capture functionality.
 
+---
 
 ## License:
 This project is open-source and provided under the MIT License.
