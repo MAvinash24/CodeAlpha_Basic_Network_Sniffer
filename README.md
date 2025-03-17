@@ -73,13 +73,9 @@ View captured packets in the scrollable display area.
 ### Notes:
 
 The script may require administrator/root privileges to access network packets.
-
-Linux/macOS: Run using sudo python network_sniffer.py
-
-Windows: Run the script in an administrator command prompt.
-
+**Linux/macOS**: Run using sudo python network_sniffer.py
+**Windows**: Run the script in an administrator command prompt.
 Packet capturing will only work if your network interface is in promiscuous mode (if required).
-
 Filtering options can be added to enhance packet capture functionality.
 
 ---
