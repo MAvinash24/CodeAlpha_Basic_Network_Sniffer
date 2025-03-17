@@ -8,8 +8,8 @@ The CodeAlpha Basic Network Sniffer is a simple network packet analyzer built us
 
 
 ### Features
--**Real-time Packet Capture**: Captures Ethernet, IP, TCP, UDP, and ICMP packets.
--**Packet Analysis**: Displays source and destination MAC/IP addresses, port numbers, protocol information, and payload data.
+**Real-time Packet Capture**: Captures Ethernet, IP, TCP, UDP, and ICMP packets.
+**Packet Analysis**: Displays source and destination MAC/IP addresses, port numbers, protocol information, and payload data.
 
 ---
 
@@ -18,16 +18,16 @@ The CodeAlpha Basic Network Sniffer is a simple network packet analyzer built us
 -Start Sniffing
 -Stop Sniffing
 -Pause and Resume Sniffing
--**Packet Count Display**: Keeps track of the total number of packets captured.
--**Scrollable Packet Log**: Displays detailed packet information with timestamps.
--**Graceful Exit Handling**: Ensures clean termination when closing the application.
+**Packet Count Display**: Keeps track of the total number of packets captured.
+**Scrollable Packet Log**: Displays detailed packet information with timestamps.
+**Graceful Exit Handling**: Ensures clean termination when closing the application.
 
 ### Prerequisites
 
 Before running the program, make sure you have the following installed:
 
--**Python 3.x**
--**Required Python libraries: tkinter, scapy, queue, threading, sys, time**
+**Python 3.x**
+**Required Python libraries: tkinter, scapy, queue, threading, sys, time**
 ---
 You can install Scapy using:
 
@@ -65,7 +65,8 @@ Click "Stop Sniffing" to stop the packet capture.
 View captured packets in the scrollable display area.
 
 
-### Notes
+### Notes:
+
 The script may require administrator/root privileges to access network packets.
 
 Linux/macOS: Run using sudo python network_sniffer.py
@@ -77,5 +78,5 @@ Packet capturing will only work if your network interface is in promiscuous mode
 Filtering options can be added to enhance packet capture functionality.
 
 
-## License
+## License:
 This project is open-source and provided under the MIT License.
